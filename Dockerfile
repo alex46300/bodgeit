@@ -1,4 +1,4 @@
-# Build via:
+# Build via: 
 # docker build --no-cache -t psiinon/bodgeit -f Dockerfile .
 # Run via:
 # docker run --rm -p 8080:8080 -i -t psiinon/bodgeit
